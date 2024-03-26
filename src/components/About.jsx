@@ -50,22 +50,27 @@ const teamMembers = [
   {
     name: 'Alfred Oriri',
     role: 'Founder & CEO',
-    avatar: 'https://via.placeholder.com/150', // Add actual image URLs
+    avatar: 'https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHByb2ZpbGUlMjBwaWN0dXJlc3xlbnwwfHwwfHx8MA%3D%3D', // Add actual image URLs
   },
   {
-    name: 'Dinnah Ngatia',
+    name: 'Dainnah Ngatia',
     role: 'Founder & CEO',
-    avatar: 'https://via.placeholder.com/150', // Add actual image URLs
+    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmlsZSUyMHBpY3R1cmVzfGVufDB8fDB8fHww', // Add actual image URLs
   },
   {
     name: 'Ted Gitonga',
     role: 'Founder & CEO',
-    avatar: 'https://via.placeholder.com/150', // Add actual image URLs
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZSUyMHBpY3R1cmVzfGVufDB8fDB8fHww', // Add actual image URLs
   },
   {
     name: 'Brian Tsalwa',
     role: 'Founder & CEO',
-    avatar: 'https://via.placeholder.com/150', // Add actual image URLs
+    avatar: 'https://images.unsplash.com/photo-1614289371518-722f2615943d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGUlMjBwaWN0dXJlc3xlbnwwfHwwfHx8MA%3D%3D', // Add actual image URLs
+  },
+  {
+    name: 'Ian ',
+    role: 'Founder & CEO',
+    avatar: 'https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxwcm9maWxlJTIwcGljdHVyZXN8ZW58MHx8MHx8fDA%3D', // Add actual image URLs
   },
 ];
 

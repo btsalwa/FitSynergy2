@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <div
       style={{
-        backgroundImage: `url('src/assets/samuel-girven-VJ2s0c20qCo-unsplash.jpg')`, // Replace '/path/to/background-image.jpg' with the actual path to your image
+        backgroundImage: `url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGZpdG5lc3N8ZW58MHx8MHx8fDA%3D')`, // Replace '/path/to/background-image.jpg' with the actual path to your image
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
