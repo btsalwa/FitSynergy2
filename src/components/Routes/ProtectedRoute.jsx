@@ -1,12 +1,10 @@
 import React from 'react';
-import { Outlet, Navigate } from 'react-router-dom';
-// import Dashboard from '../Pages/Dashboard';
-import Login from '../Pages/Auth/Login';
+import { Navigate } from 'react-router-dom';
 
 const ProtectedRoute = ({ Component }) => {
-    const auth = {'token':false} // Your authentication logic goes here
+    const auth = true; // Your authentication logic goes here
 
-    return auth.token ? <Outlet /> : <Navigate to="/login" />;
+    return auth ? <Component /> : <Navigate to="/dashboard" />;
 };
 
 export default ProtectedRoute;
